@@ -11,6 +11,6 @@ npm-debug.log*
 # VS Code
 .vscode/
 
-# OS Files
+# OS File
 .DS_Store
 Thumbs.db
