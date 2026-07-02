@@ -157,33 +157,21 @@ http://localhost:3000
 
 ### Login Page
 
-```
 <img width="1357" height="630" alt="image" src="https://github.com/user-attachments/assets/35f04b46-3cd4-4806-a2fc-caa1edb31759" />
-
-```
 
 ### Dashboard
 
-```
 <img width="1365" height="630" alt="image" src="https://github.com/user-attachments/assets/fc3e5ef9-4831-428e-bb15-1fd8fd8a6025" />
 <img width="1365" height="632" alt="image" src="https://github.com/user-attachments/assets/72c33504-9e12-464d-8c46-944837ca5011" />
 <img width="1348" height="632" alt="image" src="https://github.com/user-attachments/assets/f795c43c-ddd4-4dbe-b7f4-2467cfe4b3ee" />
 
-```
-
 ### Students
 
-```
 <img width="1346" height="624" alt="image" src="https://github.com/user-attachments/assets/2d5f4e26-f7d1-4538-a9cf-803e0649d5fa" />
-
-```
 
 ### Sections
 
-```
 <img width="1363" height="639" alt="image" src="https://github.com/user-attachments/assets/175182fa-4ee3-4bbf-82a6-7934d42c367e" />
-
-```
 
 ---
 
