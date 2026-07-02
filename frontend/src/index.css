@@ -10,7 +10,6 @@ body {
   color: #1f2933;
 }
 
-/* ---------- Layout ---------- */
 .app-container {
   display: flex;
   min-height: 100vh;
@@ -74,7 +73,7 @@ body {
   color: #1e293b;
 }
 
-/* ---------- Login Page ---------- */
+/* Login Page */
 .login-container {
   display: flex;
   align-items: center;
